@@ -49,7 +49,8 @@ end
  end
  
  famous_robots = ["Johnny 5", "R2D2", "Robocop"]
- deleted_robot = 
+ deleted_robot = (famous_robots, 2)
+ end
  
  
  
