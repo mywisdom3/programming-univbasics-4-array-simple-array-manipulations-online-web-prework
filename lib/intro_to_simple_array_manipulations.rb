@@ -20,4 +20,8 @@ end
  @my_favorite_cities.shift(@my_favorite_cities)
  end
  
+   @ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
+   @ice_cream_brands.shift_with_args
+ end
+ 
  
