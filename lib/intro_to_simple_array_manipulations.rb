@@ -43,6 +43,8 @@ end
   instruments.flatten(instruments)
 end
 
+ instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
+ no_offense_steven = using_delete(instructors, "Steven")
   
   
   
