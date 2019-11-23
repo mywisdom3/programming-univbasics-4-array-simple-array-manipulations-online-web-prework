@@ -12,5 +12,7 @@ end
 @continents.pop
 end
 
-@dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahu
+@dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahu"]
 @dog_breeds.pop_with_args
+end
+
