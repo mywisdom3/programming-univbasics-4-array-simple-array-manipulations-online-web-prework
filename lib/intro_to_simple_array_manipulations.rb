@@ -17,4 +17,7 @@ end
 end
 
  @my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
-    @im_so_over_this_city = using_shift(@my_favorite_cities)
+ @my_favorite_cities.shift(@my_favorite_cities)
+ end
+ 
+ 
