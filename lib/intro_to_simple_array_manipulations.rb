@@ -8,7 +8,3 @@ bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
 bouroughs_in_nyc.unshift(@new_neighborhood)
 end
 
-bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
-@new_neighborhood = "Staten Island"
-bouroughs_in_nyc.unshift(@new_neighborhood)
-end
