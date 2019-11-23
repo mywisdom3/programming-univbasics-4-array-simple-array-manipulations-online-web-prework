@@ -36,8 +36,10 @@ end
   
   haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
   new_array = using_uniq(haircuts)
-  haircuts.uniq
+  haircuts.uniq(new_array)
   end
+  
+  
   
   
   
