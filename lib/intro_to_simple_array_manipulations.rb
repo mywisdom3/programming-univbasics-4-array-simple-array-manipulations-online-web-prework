@@ -8,3 +8,4 @@ bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
 bouroughs_in_nyc.unshift(@new_neighborhood)
 end
 
+@continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
