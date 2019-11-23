@@ -11,3 +11,6 @@ end
 @continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
 @continents.pop
 end
+
+@dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahu
+@dog_breeds.pop_with_args
