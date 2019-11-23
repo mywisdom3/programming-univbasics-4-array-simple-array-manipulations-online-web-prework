@@ -34,5 +34,10 @@ end
     @list_of_programming_languages.insert(@another_language)[4]
   end
   
+  haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
+  new_array = using_uniq(haircuts)
+  haircuts.uniq(new_array)
+  end
+  
   
   
