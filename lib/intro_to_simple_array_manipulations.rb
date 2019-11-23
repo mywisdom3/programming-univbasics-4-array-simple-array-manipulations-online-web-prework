@@ -24,4 +24,9 @@ end
    @ice_cream_brands.shift_with_args
  end
  
- 
+   @my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
+    more_favs = ["sports cars", "flatiron school"]
+    @all_my_favorit_things.concat(more_favs)
+  end
+  
+  
